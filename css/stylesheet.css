@@ -105,8 +105,8 @@ display: none;
     transform: scale(1,1);
     transform-origin: 50% 50%;
   }
-  87%{
-    transform: scale(1.5,1.5);
+  80%{
+    transform: scale(1.2,1.2);
     transform-origin: 50% 50%;
   }
   100%{
