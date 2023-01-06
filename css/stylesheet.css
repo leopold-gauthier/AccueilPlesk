@@ -42,7 +42,7 @@ h1{
 #project{
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: stretch;
   justify-content: space-evenly;
 }
 .project{
@@ -63,6 +63,9 @@ a{
 }
 #github{
   display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
 
 #github img{
